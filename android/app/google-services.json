@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "557700744202",
+    "project_id": "grocery-app-2ec11",
+    "storage_bucket": "grocery-app-2ec11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557700744202:android:cdf943db954cfb7b584bf3",
+        "android_client_info": {
+          "package_name": "com.example.grocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557700744202-ik5pgjknvvrcr58r9vgrpch7vr7koao8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.grocery",
+            "certificate_hash": "f5cf134b1ee1ecd1e60149bcac725ce6cf0f46d2"
+          }
+        },
+        {
+          "client_id": "557700744202-6bag1jksbrg5g6dh912k7v37q49rtqt5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm7yhMYsz4FWen5oHAe9nAIOBb0m8Al7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557700744202-6bag1jksbrg5g6dh912k7v37q49rtqt5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557700744202:android:ce4dab657d6f034a584bf3",
+        "android_client_info": {
+          "package_name": "com.example.grocery_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557700744202-6bag1jksbrg5g6dh912k7v37q49rtqt5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm7yhMYsz4FWen5oHAe9nAIOBb0m8Al7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557700744202-6bag1jksbrg5g6dh912k7v37q49rtqt5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
